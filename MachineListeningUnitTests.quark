@@ -3,6 +3,6 @@
 	\path: "MachineListeningUnitTests", // path relative to the root Quarks folder
 	\summary: "UnitTests for Machine Listening UGens - in core and in sc3-plugins",
 	\dependencies: ["UnitTesting", "MathLib"],
-	\ext_dependancy: "sc3-plugins",
+	\ext_dependency: "sc3-plugins",
 	\author: "dan stowell"
 )
